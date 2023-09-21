@@ -1,0 +1,30 @@
+/* Estilo para o container principal */
+.home-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Estilo para o título h1 */
+  .home-title {
+    font-size: 36px;
+    color: #333; /* Cor do título */
+    margin-bottom: 20px;
+  }
+  
+  /* Estilo para o link de redirecionamento */
+  .todo-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; /* Cor de fundo do link */
+    color: #fff; /* Cor do texto do link */
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Estilo para o link de redirecionamento quando o cursor passa por cima */
+  .todo-link:hover {
+    background-color: #0056b3; /* Cor de fundo alterada quando o cursor passa por cima */
+  }
+  
