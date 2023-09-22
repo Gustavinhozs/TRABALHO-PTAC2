@@ -30,15 +30,24 @@ input {
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 5px;
+  margin: 0 auto;
 }
 
 button {
-  background-color: #000000;
+  background-color: #331053;
   color: #af397e;
   padding: 10px;
   border-radius: 5px;
   cursor: pointer;
 }
+
+img {
+  width: 40%;
+  margin: 0 auto;
+  display: block;
+   
+}
+
 
 .todo-item {
   margin-bottom: 10px;
